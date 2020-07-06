@@ -1,0 +1,4 @@
+Sławek;email1@gmail.com
+Słąwek1;slawek1@gmail.com
+Sławek;temat@gmail.com
+Janek;testowy@email.com
